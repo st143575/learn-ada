@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 20" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 20" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 241" >
+      <vfs_project />
+      <vfs_file>/Users/chongshen/Applications/GNAT/2018/lib/gcc/x86_64-apple-darwin16.7.0/7.3.1/rts-native/adainclude/a-textio.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 20" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 177" line=" 21" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 20" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 3" line=" 21" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 259" >
+      <vfs_project />
+      <vfs_file>/Users/chongshen/Applications/GNAT/2018/lib/gcc/x86_64-apple-darwin16.7.0/7.3.1/rts-native/adainclude/a-textio.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 21" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 20" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 15" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 21" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 11" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 21" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 241" >
+      <vfs_project />
+      <vfs_file>/Users/chongshen/Applications/GNAT/2018/lib/gcc/x86_64-apple-darwin16.7.0/7.3.1/rts-native/adainclude/a-textio.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 21" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 16" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 21" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 177" line=" 21" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 22" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 177" line=" 21" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 47" line=" 20" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 174" line=" 21" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 47" line=" 20" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 64" line=" 21" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 85" line=" 20" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 124" line=" 21" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 87" line=" 20" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 259" >
+      <vfs_project />
+      <vfs_file>/Users/chongshen/Applications/GNAT/2018/lib/gcc/x86_64-apple-darwin16.7.0/7.3.1/rts-native/adainclude/a-textio.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 87" line=" 20" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 3" line=" 21" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 87" line=" 20" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 64" line=" 21" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 87" line=" 20" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/bs.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 3" line=" 21" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 87" line=" 20" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 21" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 47" line=" 20" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 64" line=" 21" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 35" line=" 8" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 12" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 18" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 12" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 142" line=" 21" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 82" line=" 20" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 9" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 24" line=" 12" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/records.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

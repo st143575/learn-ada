@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
-<Locations>
-  <Project>
-    <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/blockstatement.gpr</vfs_file>
+<Locations >
+  <Project >
     <file_marker column=" 1" line=" 1" >
       <vfs_project />
       <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/helloworld.adb</vfs_file>
