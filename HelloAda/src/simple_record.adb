@@ -17,6 +17,6 @@ procedure Simple_Record is
 begin
    Ada.Text_IO.Put("Student:");
    Ada.Text_IO.New_Line;
-   MyCard:=("Shen      ", "Chong     ", 123456, "Oct 01, 1949   ", "EE        ", 1.0);
+   MyCard := ("Shen      ", "Chong     ", 123456, "Oct 01, 1949   ", "EE        ", 1.0);
    Ada.Text_IO.Put_Line(MyCard.Family_Name & MyCard.First_Name & Integer'Image(MyCard.Student_ID) & "   " & MyCard.Birthday & MyCard.Major & Float'Image(MyCard.Average_Grade));
 end Simple_Record;

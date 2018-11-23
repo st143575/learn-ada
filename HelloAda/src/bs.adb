@@ -19,11 +19,11 @@ begin
 
    Swap:
    declare
-      Temp :Integer;
+      Temp:Integer;
    begin
       Temp := V;
-      V:=U;
-      U:=Temp;
+      V := U;
+      U := Temp;
    end Swap;
 
    Put_Line ("After swap");
