@@ -1,0 +1,17 @@
+[GENERATED OBJECT FILE]
+b__bs.o
+[PROJECT FILES]
+/Users/chongshen/Documents/learn-ada/HelloAda/blockstatement.gpr
+20181123113907
+[BOUND OBJECT FILES]
+/Users/chongshen/Documents/learn-ada/HelloAda/obj/bs.o
+[GENERATED SOURCE FILES]
+b__bs.ads
+b__bs.adb
+b__bs.ali
+[RESULTING OPTIONS]
+-L/Users/chongshen/Documents/learn-ada/HelloAda/obj/
+-L/Users/chongshen/Documents/learn-ada/HelloAda/obj/
+-L/users/chongshen/applications/gnat/2018/lib/gcc/x86_64-apple-darwin16.7.0/7.3.1/adalib/
+-static
+/users/chongshen/applications/gnat/2018/lib/gcc/x86_64-apple-darwin16.7.0/7.3.1/adalib/libgnat.a
