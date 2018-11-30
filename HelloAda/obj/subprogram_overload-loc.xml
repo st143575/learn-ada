@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/subprogram_overload.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/overloads.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 26" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/subprogram_overload.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/overloads.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/overloads.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

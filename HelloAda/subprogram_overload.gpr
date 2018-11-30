@@ -1,0 +1,5 @@
+project Subprogram_Overload is
+    for Source_Dirs use ("src");
+    for Object_Dir use "obj";
+    for Main use ("overloads.adb");
+end Subprogram_Overload;

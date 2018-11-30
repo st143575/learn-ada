@@ -1,0 +1,17 @@
+[GENERATED OBJECT FILE]
+b__overloads.o
+[PROJECT FILES]
+/Users/chongshen/Documents/learn-ada/HelloAda/subprogram_overload.gpr
+20181130133204
+[BOUND OBJECT FILES]
+/Users/chongshen/Documents/learn-ada/HelloAda/obj/overloads.o
+[GENERATED SOURCE FILES]
+b__overloads.ads
+b__overloads.adb
+b__overloads.ali
+[RESULTING OPTIONS]
+-L/Users/chongshen/Documents/learn-ada/HelloAda/obj/
+-L/Users/chongshen/Documents/learn-ada/HelloAda/obj/
+-L/users/chongshen/applications/gnat/2018/lib/gcc/x86_64-apple-darwin16.7.0/7.3.1/adalib/
+-static
+/users/chongshen/applications/gnat/2018/lib/gcc/x86_64-apple-darwin16.7.0/7.3.1/adalib/libgnat.a

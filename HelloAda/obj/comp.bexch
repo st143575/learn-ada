@@ -1,0 +1,17 @@
+[GENERATED OBJECT FILE]
+b__comp.o
+[PROJECT FILES]
+/Users/chongshen/Documents/learn-ada/HelloAda/subprogramms.gpr
+20181130124410
+[BOUND OBJECT FILES]
+/Users/chongshen/Documents/learn-ada/HelloAda/obj/comp.o
+[GENERATED SOURCE FILES]
+b__comp.ads
+b__comp.adb
+b__comp.ali
+[RESULTING OPTIONS]
+-L/Users/chongshen/Documents/learn-ada/HelloAda/obj/
+-L/Users/chongshen/Documents/learn-ada/HelloAda/obj/
+-L/users/chongshen/applications/gnat/2018/lib/gcc/x86_64-apple-darwin16.7.0/7.3.1/adalib/
+-static
+/users/chongshen/applications/gnat/2018/lib/gcc/x86_64-apple-darwin16.7.0/7.3.1/adalib/libgnat.a

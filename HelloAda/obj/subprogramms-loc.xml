@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 25" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/subprogramms.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/comp.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/comp.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/functions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 19" >
+      <vfs_project>/Users/chongshen/Documents/learn-ada/HelloAda/subprogramms.gpr</vfs_project>
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/functions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/control_flow.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/functions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/comp.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/simple_record.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/functions.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

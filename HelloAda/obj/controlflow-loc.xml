@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
 <Locations >
-  <Project>
-    <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/controlflow.gpr</vfs_file>
+  <Project >
     <file_marker current="true" column=" 1" line=" 1" >
       <vfs_project />
       <vfs_file>/Users/chongshen/Documents/learn-ada/HelloAda/src/control_flow.adb</vfs_file>
